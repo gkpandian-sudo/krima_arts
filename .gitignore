@@ -1,0 +1,7 @@
+# Downloaded themes / zip assets
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
